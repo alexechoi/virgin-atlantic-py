@@ -26,10 +26,10 @@ This Python package provides an interface to fetch data from the Virgin Atlantic
 
 ## Installation
 
-This package will soon be available on [PyPI](https://pypi.org/project/virginatlantic/). You can install it directly using pip:
+This package is available on [PyPI](https://pypi.org/project/virgin-atlantic/). You can install it directly using pip:
 
 ```bash
-pip install virginatlantic
+pip install virgin-atlantic
 ```
 
 Or clone the repository and install it locally:
